@@ -1,4 +1,4 @@
-# React Website
+# React User List App
 
 This repository contains a simple React website built using ReactJS, displaying a list of users and their details fetched from a provided API.
 
